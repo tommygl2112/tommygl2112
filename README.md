@@ -16,20 +16,45 @@
 - 👯 I’m looking to collaborate on Front-end / Back-end software engineering projects
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-   <a href="" target="_blank">
+  
+  <a href="https://es.react.dev" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+
+  <a href="https://nextjs.org">
+    <img alt="NEXTJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  </a>
+
+  <a href="https://expressjs.com/es/" target="_blank">
+    <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  </a>
+
+  <a href="https://flutter.dev/">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+   
+  <a href="" target="_blank">
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
 
-   <a href="https://sass-lang.com" target="_blank">
-    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <a href="" target="_blank">
+    <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+  </a>
+
+  <a href="" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   </a>
 
    <a href="https://redux.js.org" target="_blank">
     <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-  </a>
-
-   <a href="https://es.react.dev" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
 
    <a href="https://nodejs.org/es" target="_blank">
@@ -39,15 +64,18 @@
    <a href="https://www.nginx.com" target="_blank">
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
   </a>
-<a href="https://nextjs.org"><img alt="NEXTJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
 
-   <a href="https://firebase.google.com/?hl=es" target="_blank">
-    <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  <a href="" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   </a>
-   <a href="https://expressjs.com/es/" target="_blank">
-    <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  </a>
-<a href="https://www.figma.com/"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+
+<a href="https://wordpress.com/">
+  <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
+</a>
+   
+<a href="https://www.figma.com/">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</a>
 
 ----------------------------------------------------------------------
 
